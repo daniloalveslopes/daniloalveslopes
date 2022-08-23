@@ -18,4 +18,4 @@
 <img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalveslopes&layout=compact">
 </p>
 <h2> #Social Links</h2>
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://github.com/anuraghazra/github-readme-stats)]
