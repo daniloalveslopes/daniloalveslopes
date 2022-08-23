@@ -19,3 +19,4 @@
 </p>
 <h2> #Social Links</h2>
 <a href="https://www.linkedin.com/in/danilo-alves-lopes-80748b22a/" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
+<a href="https://www.instagram.com/danlopes_dev/" target="_blank">    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
