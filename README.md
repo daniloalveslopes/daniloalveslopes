@@ -18,4 +18,4 @@
 <img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalveslopes&layout=compact">
 </p>
 <h2> #Social Links</h2>
-<a href="">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white</a>
+<a href="">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
