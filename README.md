@@ -15,5 +15,5 @@
 <h2>GITHUB ANALYTICS</h2>
 <p align="left">
 <img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api?username=daniloalveslopes&show_icons=true&theme=dracula&layout=compact">
-<img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalveslopes&layout=compact">
 </p>
