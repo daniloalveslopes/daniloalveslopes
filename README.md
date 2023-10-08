@@ -1,6 +1,6 @@
 <h1>Fala! Eu Sou Danilo Lopes!👋</h1>
 - 🔴 Desenvolvedor Front-end
-- 🔴 HTML, CSS, JAVASCRIPT, REACT, PHP, LARAVEL, BOOTSTRAP, TAILWIND CSS,SAAS
+- 🔴 HTML, CSS, JAVASCRIPT, REACT, PHP, LARAVEL, BOOTSTRAP, TAILWIND CSS, SAAS/
 <br></br>
 <h2>🛠 &nbsp; Tecnologias Que Domino </h2>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
