@@ -1,6 +1,6 @@
 <h1>Fala! Eu Sou Danilo Lopes!👋</h1>
 - 🔴 Desenvolvedor Front-end
-- 🔴 HTML, CSS, BOOTSTRAP, JAVASCRIPT, SAAS
+- 🔴 HTML, CSS, JAVASCRIPT, REACT, PHP, LARAVEL, BOOTSTRAP, TAILWIND CSS,SAAS
 <br></br>
 <h2>🛠 &nbsp; Tecnologias Que Domino </h2>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,4 +15,4 @@
 <img width="530em" alt="botstrap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalveslopes&layout=compact">
 </p>
 <h2> #Social Links</h2>
-<a href="https://www.linkedin.com/in/danilo-alves-lopes-80748b22a/" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
+<a href="https://www.linkedin.com/in/danilolopes23/" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkdin"></a>
